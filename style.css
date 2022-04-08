@@ -99,6 +99,7 @@ height: 290px;
     align-items: center;
     background-color: var(--pr-font);
     height: 290px;
+    margin-bottom: 20px;
 }
 
 .skill {
